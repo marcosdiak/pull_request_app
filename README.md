@@ -5,3 +5,5 @@ Tests on how to implement a bot to evaluate pull requests
 This is going to be a first commit.
 
 A new branch will be added.
+
+uvicorn app:app --reload --port 8080
